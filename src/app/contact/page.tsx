@@ -57,7 +57,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <p className="text-xs font-black text-slate-400 uppercase tracking-widest mb-0.5">Call Us</p>
-                      <p className="text-lg font-bold text-slate-900">+91 747984212</p>
+                      <p className="text-lg font-bold text-slate-900">+917479842126</p>
                     </div>
                   </div>
 
